@@ -1,16 +1,12 @@
 # 👋 Welcome to my GitHub! 🚀
 
-I'm a passionate software engineer with a background in **Embedded Systems**, **Rust**, **C**, **Python**, and **Linux Kernel Development**.
-I love diving into challenging projects, contributing to open source, sharing knowledge, and continuously learning to sharpen my skills.
+Hi, I'm a passionate software engineer who loves sharing knowledge and constantly learning new things.
+
+> *"Curiosity may have killed the cat, but I have that dog in me! 🐺"*  
+> – TJ
 
 ---
 
-## 🌟 About Me
-
-- 🌍 Based in Braga, Portugal 🇵🇹
-- 💻 Working on projects involving **Rust**, **Embedded Systems**, and **Linux Kernel Development**  
-- ✍️ Sharing knowledge through my [blog](https://marceloborges.dev/) and [wiki](https://wiki.marceloborges.dev)  
-
-📬 Let’s connect:  
-- [me@marceloborges.dev](mailto:me@marceloborges.dev)  
-- [LinkedIn](https://www.linkedin.com/in/jmmb)  
+### 🌐 Explore More:
+- 📚 [My Wiki](https://wiki.marceloborges.dev)  
+- ✍️ [My Blog](https://marceloborges.dev)
