@@ -7,8 +7,8 @@ Hi, I'm a passionate software engineer who loves sharing knowledge and constantl
 
 ---
 
+![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcelomb&theme=dark&hide=Roff,Cmake&layout=compact)
+
 ### 🌐 Explore More:
 - 📚 [My Wiki](https://wiki.marceloborges.dev)  
 - ✍️ [My Blog](https://marceloborges.dev)
-
-![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcelomb&theme=dark&hide=Roff,Cmake&layout=compact)
